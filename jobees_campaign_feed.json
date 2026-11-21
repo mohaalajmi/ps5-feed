@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "name": "Personal Campaign Downloads",
+  "games": [
+    {
+      "id": "CUSA15278",
+      "title": "Call of Duty: Modern Warfare (2019)",
+      "platform": "ps4",
+      "releases": [
+        {"url": "https://a-35.1fichier.com/p2247033282", "provider": "1fichier", "label": "Base game (unverified)", "version": "Base"},
+        {"url": "https://a-11.1fichier.com/p2247033451", "provider": "1fichier", "label": "Update 1.67 (unverified)", "version": "1.67"},
+        {"url": "https://a-11.1fichier.com/p2247033676", "provider": "1fichier", "label": "Campaign DLC 1 (unverified)"}
+      ]
+    }
+  ]
+}
