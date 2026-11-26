@@ -1,0 +1,30 @@
+{
+  "name": "Custom GTA VI Source",
+  "version": 1,
+  "packages": [
+    {
+      "titleId": "PPSA38500",
+      "title": "Grand Theft Auto VI",
+      "category": "game",
+      "description": "User-provided links; build and compatibility unverified.",
+      "downloadLinks": [
+        {
+          "name": "Mocha",
+          "url": "https://mocha.my/share/aG6qV-Z74AcrHJswaG_zbOzufvTbTZ5F"
+        },
+        {
+          "name": "Filekeeper",
+          "url": "https://filekeeper.net/6xj0r2sjn5cf/EP1004-PPSA38500_00-GRANDTHEFTAUTO00-A0102-V0102.pkg"
+        },
+        {
+          "name": "Vikingfile",
+          "url": "https://vikingfile.com/f/ZlUyk8jIXZ"
+        },
+        {
+          "name": "1fichier",
+          "url": "https://1fichier.com/?gnuut15mwy889sef2xn1"
+        }
+      ]
+    }
+  ]
+}
